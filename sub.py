@@ -1,5 +1,5 @@
-a = 10
-b = 2
+a = 200
+b = 5
 
 #logic
 res = a-b
